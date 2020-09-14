@@ -1,0 +1,12 @@
+C:\WebDev\TTS_c#\OOPExample\bin\Debug\netcoreapp3.1\OOPExample.exe
+C:\WebDev\TTS_c#\OOPExample\bin\Debug\netcoreapp3.1\OOPExample.deps.json
+C:\WebDev\TTS_c#\OOPExample\bin\Debug\netcoreapp3.1\OOPExample.runtimeconfig.json
+C:\WebDev\TTS_c#\OOPExample\bin\Debug\netcoreapp3.1\OOPExample.runtimeconfig.dev.json
+C:\WebDev\TTS_c#\OOPExample\bin\Debug\netcoreapp3.1\OOPExample.dll
+C:\WebDev\TTS_c#\OOPExample\bin\Debug\netcoreapp3.1\OOPExample.pdb
+C:\WebDev\TTS_c#\OOPExample\obj\Debug\netcoreapp3.1\OOPExample.AssemblyInfoInputs.cache
+C:\WebDev\TTS_c#\OOPExample\obj\Debug\netcoreapp3.1\OOPExample.AssemblyInfo.cs
+C:\WebDev\TTS_c#\OOPExample\obj\Debug\netcoreapp3.1\OOPExample.csproj.CoreCompileInputs.cache
+C:\WebDev\TTS_c#\OOPExample\obj\Debug\netcoreapp3.1\OOPExample.dll
+C:\WebDev\TTS_c#\OOPExample\obj\Debug\netcoreapp3.1\OOPExample.pdb
+C:\WebDev\TTS_c#\OOPExample\obj\Debug\netcoreapp3.1\OOPExample.genruntimeconfig.cache
